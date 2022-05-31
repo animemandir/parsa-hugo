@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://demo.gethugothemes.com/parsa/examplesite/"
+baseurl = "https://viptoons.netlify.app/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Viptoons | Movies, Series | Anime"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -92,12 +92,12 @@ author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
 mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+email = "exmaple@gmail.com"
+address = "India"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright &copy; 2022 a theme by [AnimeZia.com](https://news.animezia.com)"
 
 # Instagram feed
 [params.instafeed]
@@ -112,7 +112,7 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://facebook.com/viptoons"
 
 [[params.social]]
 icon = "ti-twitter-alt"
@@ -124,4 +124,4 @@ link = "#"
 
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/animemandir/"
